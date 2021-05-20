@@ -1,3 +1,0 @@
-Centroid	nodeData.txt	ID:0	col:1,2
-Population	nodeData.txt	ID:0	col:3
-BorderLengths	edgeData.txt	ID:0,1	col:2
